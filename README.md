@@ -1,6 +1,6 @@
 # Logo-ENC_PyTurtle
 
-Réinterprétation artistique du logo de l'Ecole des chartes à partir du module de dessin Turtle de Python
+Réinterprétation du logo de l'Ecole des chartes à partir du module de dessin Turtle de Python
 
 ## Contributeurs :
 
